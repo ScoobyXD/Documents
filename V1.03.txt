@@ -14,6 +14,7 @@ Then have a feedback loop of measuring the outputs in real-time, then use that d
 
 
 /////////////////////Notes until I actually finish this document//////////////////////////////////////
+<<<<<<< HEAD
 9/20/25
 
 
@@ -63,6 +64,8 @@ Many more things I wanted to talk about while walking coco, dammit I forgot what
 Justin made a great point of interest rates not going down, despite asset prices being high, so if people want to buy houses cars business loans student loans, they’re still high but interest rates high while wages stagnate = not a great time for society. 
 
 
+=======
+>>>>>>> 5c80a9ba430408a3e789649490a03404268be92c
 9/18/25
 The best thing you can do for yourself is realize our post war era is a facade and break out of the beliefs, worldviews, and culture of the society and era of history you live in. 
 
